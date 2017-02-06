@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>testT.xcscheme</key>
+		<key>Swisential.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>836E56E01E49106800C194EF</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>836E56E91E49106800C194EF</key>
+		<key>8317D4361E491F9700B6C0DB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

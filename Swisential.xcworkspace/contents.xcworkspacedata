@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:JSONParsingDemo.playground">
+   </FileRef>
+   <FileRef
+      location = "group:APIProtocolDemo.playground">
+   </FileRef>
+   <FileRef
+      location = "group:NotificationManagerDemo.playground">
+   </FileRef>
+   <FileRef
+      location = "container:Swisential/Swisential.xcodeproj">
+   </FileRef>
+</Workspace>

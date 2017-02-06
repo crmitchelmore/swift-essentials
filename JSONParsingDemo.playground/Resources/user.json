@@ -1,0 +1,28 @@
+{
+  "name": "Bob",
+  "nickName": null,
+  "dateOfBirth": "1987-06-18T00:01:00+00:00",
+  "notes": ["a","some", "b"],
+  "team": {
+    "name": "A Team",
+    "location": {
+      "latitude": 50.00012,
+      "longitude": 49.12320
+    },
+    "objective": "war"
+  },
+  "playerAbilities": {
+    "war": {
+      "level": 5,
+      "score": 1.3
+    },
+    "trade": {
+      "level": 1,
+      "score": 3.8
+    },
+  },
+  "itemsCounts": {
+    "sword": 1,
+    "gun": 7
+  }
+}
